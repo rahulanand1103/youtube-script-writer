@@ -57,6 +57,9 @@ The tool adapts to various **<span style="color:#D63384;">video lengths</span>**
 
 
 ## 🎥 Demo
+### UI
+https://github.com/user-attachments/assets/b215ad58-58f9-42d7-922e-ec7fcfe916a5
+
 ### CLI
 https://github.com/user-attachments/assets/53ab03ca-0d0d-4c83-9303-f2a74f13c85b
 
