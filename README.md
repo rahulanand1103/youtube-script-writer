@@ -5,7 +5,7 @@ YouTube Script Writer is an open-source AI-agent that streamlines script generat
 
 The tool adapts to various **<span style="color:#D63384;">video lengths</span>**, from **<span style="color:#FFC300;">short TikTok-style clips (15-30 seconds)</span>** to **<span style="color:#FF5733;">longer formats (10-30 minutes)</span>**, handling both research and writing so creators can focus on delivering their unique content.
 
-**Example: Deepseek**: [Deepseek-Example](https://github.com/rahulanand1103/youtube-script-writer/docs/sample%20script)
+**Example: Deepseek**: [Deepseek-Example](https://github.com/rahulanand1103/youtube-script-writer/tree/main/docs/sample%20script/deepseek)
 
 
 
