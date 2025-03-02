@@ -57,14 +57,15 @@ The tool adapts to various **<span style="color:#D63384;">video lengths</span>**
 
 
 ## 🎥 Demo
+### CLI
+https://github.com/user-attachments/assets/53ab03ca-0d0d-4c83-9303-f2a74f13c85b
 
-[Insert a link or gif showcasing the scriptwriting process]
 
 ## 🏗️ Architecture
 
 YouTube Script Writer follows a structured approach to script generation:
 
-![Image](https://github.com/user-attachments/assets/73ebc259-f050-4216-9ade-0510351bd24b)
+
 
 ### 📌 Steps:
 
