@@ -4,7 +4,8 @@ from pydantic import BaseModel, Field
 
 class Section(BaseModel):
     section_title: str = Field(
-        ..., title="Title of the section.Make sure the section title is meaningful."
+        ...,
+        title="Title of the section.Make sure the section title is meaningful,Engaging and must be based upon research.",
     )
     description: str = Field(
         ...,
@@ -24,9 +25,9 @@ class Section(BaseModel):
 class RefinedBluePrint(BaseModel):
     page_title: str = Field(
         ...,
-        title="Title of the page.create a thought provoking and engaging Title/headline.",
+        title="Title of the video.",
     )
     sections: List[Section] = Field(
         default_factory=list,
-        title="Titles and descriptions for each section of the page.",
+        title="Titles and descriptions for each section of the video.",
     )
