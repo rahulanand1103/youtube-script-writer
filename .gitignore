@@ -2,4 +2,4 @@ scripts/
 **/__pycache__/
 __pycache__/
 .DS_Store
-# src/.env
+src/.env
