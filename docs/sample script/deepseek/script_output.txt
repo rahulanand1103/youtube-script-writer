@@ -1,0 +1,9 @@
+
+## Section: Introduction to DeepSeek
+[0-5 sec]: Released in January 2025, DeepSeek emerges as a groundbreaking AI model, built upon the robust foundation of DeepSeek-V3. This state-of-the-art model is specifically designed for advanced reasoning tasks and positions itself as a formidable competitor to OpenAI's o1 model, offering similar performance while maintaining a significantly lower cost structure. With an impressive 671 billion parameters, DeepSeek not only showcases its expansive capabilities but also underscores its efficiency in delivering high-quality results.
+
+## Section: Key Features of DeepSeek
+[5-15 sec]: DeepSeek-V3 stands out as a Mixture-of-Experts (MoE) model boasting 671 billion parameters, with 37 billion activated per token, pushing the boundaries of open-source AI. Its groundbreaking FP8 mixed precision training, combined with high-performance computing (HPC) co-design, enhances both efficiency and scalability. This innovative approach not only marks a leap in architectural sophistication but also delivers robust performance benchmarks that trace its evolution from Llama 2 to Llama 3 levels of proficiency.
+
+## Section: Applications of DeepSeek
+[15-25 sec]: DeepSeek is revolutionizing the tech landscape with its cutting-edge applications in coding, education, and multilingual systems. Known for its robust ethical AI practices, DeepSeek is dedicated to ensuring responsible technology use by adhering to fairness, transparency, and accountability. In data analysis, DeepSeek's performance in SQL queries stands out, showcasing clear explanations and prompt error corrections, although it faces some limitations in file uploads. When compared to other AI models like ChatGPT-4o and Claude 3.5 Sonnet, DeepSeek holds its ground by offering valuable insights and support in Exploratory Data Analysis and Machine Learning, further solidifying its role as a leader in AI innovation.

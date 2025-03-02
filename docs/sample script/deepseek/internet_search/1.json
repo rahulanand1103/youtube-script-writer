@@ -1,0 +1,46 @@
+{
+    "topic": "deepseek",
+    "questions": [
+        "\"Deepseek method for uncovering hidden details in different contexts\"",
+        "\"Deepseek tool applications for finding intricate details across various contexts\"",
+        "deepseek introduction and usage in finding hidden or intricate details in multiple contexts"
+    ],
+    "internet_search": [
+        {
+            "content": "Hello friends, This will be a quick and short writeup on a simple vulnerability I found on deepseek AI. While using the Deepseek AI, you\u2019ve probably came across an annoying response which says\u2026",
+            "url": "https://1-day.medium.com/uncovering-deepseek-ais-hidden-flaw-a-dive-into-its-response-filtering-system-96203b727192",
+            "title": "Uncovering Deepseek AI\u2019s Hidden Flaw: A Dive Into Its Response ..."
+        },
+        {
+            "content": "While using the Deepseek AI, you\u2019ve probably came across an annoying response which says \u201cSorry, that\u2019s beyond my current scope, Let\u2019s talk about something else.\u201d. You\u2019ll get this response when you ask stuffs which are related to politics/Chinese government/nations.",
+            "url": "https://1-day.medium.com/uncovering-deepseek-ais-hidden-flaw-a-dive-into-its-response-filtering-system-96203b727192",
+            "title": "Uncovering Deepseek AI\u2019s Hidden Flaw: A Dive Into Its Response ..."
+        },
+        {
+            "content": "Released in January 2025, this model is based on DeepSeek-V3 and is focused on advanced reasoning tasks directly competing with OpenAI's o1 model in performance, while maintaining a significantly lower cost structure. Like DeepSeek-V3, the model has 671 billion parameters with a context length of 128,000.",
+            "url": "https://www.techtarget.com/whatis/feature/DeepSeek-explained-Everything-you-need-to-know",
+            "title": "DeepSeek explained: Everything you need to know"
+        },
+        {
+            "content": "DeepSeek-Coder-V2. Released in July 2024, this is a 236 billion-parameter model offering a context window of 128,000 tokens, designed for complex coding challenges.",
+            "url": "https://www.techtarget.com/whatis/feature/DeepSeek-explained-Everything-you-need-to-know",
+            "title": "DeepSeek explained: Everything you need to know"
+        },
+        {
+            "content": "DeepSeek-V3 (Dec '24): scaling sparse MoE networks to 671B parameters, with FP8 mixed precision training and intricate HPC co-design \u00b7 DeepSeek-R1 (Jan '25): building upon the efficiency foundations of the previous papers and using large-scale reinforcement learning to incentivize emergent chain-of-thought capabilities, including a \u201czero-SFT\u201d variant. For additional context on DeepSeek itself and the market backdrop that has caused claims made by the DeepSeek team to be taken out of context and spread widely, please take a look at my colleague Prasanna Pendse's post: Demystifying Deepseek.",
+            "url": "https://martinfowler.com/articles/deepseek-papers.html",
+            "title": "The DeepSeek Series: A Technical Overview"
+        },
+        {
+            "content": "A central concern they grapple with is training instability (sudden irrecoverable divergences in the training process), which can often manifest in large-scale language models\u2014especially those with mixture-of-experts or very long contexts. By carefully tuning learning rates, batch sizes, and other hyperparameters 2, DeepSeek-LLM demonstrates that stable large-scale training is achievable, but it requires meticulous design of the architecture of the transformer model together with the infrastructure of the High Performance Computing (HPC) data center used to train it.",
+            "url": "https://martinfowler.com/articles/deepseek-papers.html",
+            "title": "The DeepSeek Series: A Technical Overview"
+        }
+    ],
+    "iterations": 1,
+    "section_info": {
+        "section_title": "Introduction",
+        "description": "Briefly introduce the concept of 'deepseek' as a method or tool for finding hidden or intricate details in various contexts.",
+        "time": "0-5 sec"
+    }
+}

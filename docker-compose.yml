@@ -1,0 +1,27 @@
+version: "3.8"
+
+services:
+  cli:
+    build: .
+    container_name: youtube_script_cli
+    environment:
+      - OPENAI_API_KEY
+      - YDC_API_KEY
+    volumes:
+      - .:/app
+    stdin_open: true  
+    tty: true         
+    command: ["python", "cli.py"]
+
+
+  ui:
+    build: .
+    container_name: youtube_script_ui
+    environment:
+      - OPENAI_API_KEY
+      - YDC_API_KEY
+    volumes:
+      - .:/app
+    ports:
+      - "8501:8501"
+    command: ["streamlit", "run", "ui.py", "--server.port=8501", "--server.address=0.0.0.0"]

@@ -1,0 +1,46 @@
+{
+    "topic": "deepseek",
+    "questions": [
+        "practical applications of deepseek in technology science data analysis industries",
+        "deepseek practical applications in technology industry science data analysis",
+        "practical uses of deepseek in various industries including technology, scientific research, and data analysis"
+    ],
+    "internet_search": [
+        {
+            "content": "As with any powerful technology, the development and deployment of AI come with ethical considerations. DeepSeek is committed to responsible AI practices, ensuring that its technologies are used in ways that are fair, transparent, and accountable.",
+            "url": "https://medium.com/@tam.tamanna18/transforming-industries-with-deepseeks-ai-solutions-1ce566bb596d",
+            "title": "Transforming Industries with DeepSeek\u2019s AI Solutions | by Tamanna ..."
+        },
+        {
+            "content": "DeepSeek is a trailblazer in the field of artificial intelligence, with a mission to harness the power of AI to drive innovation and create value across industries. Through its advanced technologies, ethical practices, and commitment to social good, DeepSeek is shaping the future of AI and paving the way for a more intelligent, connected, and equitable world.",
+            "url": "https://medium.com/@tam.tamanna18/transforming-industries-with-deepseeks-ai-solutions-1ce566bb596d",
+            "title": "Transforming Industries with DeepSeek\u2019s AI Solutions | by Tamanna ..."
+        },
+        {
+            "content": "Always intrigued by emerging LLMs and their application in data science, I decided to put DeepSeek to the test. My goal was to see how well its chatbot (V3) model could assist or even replace data scientists in their daily tasks. I used the same criteria from my previous article series, where I evaluated the performance of ChatGPT-4o vs. Claude 3.5 Sonnet vs. Gemini Advanced on SQL queries, Exploratory Data Analysis (EDA), and Machine Learning (ML).",
+            "url": "https://towardsdatascience.com/deepseek-v3-a-new-contender-in-ai-powered-data-science-eec8992e46f5/",
+            "title": "DeepSeek V3: A New Contender in AI-Powered Data Science | Towards ..."
+        },
+        {
+            "content": "Overall, DeepSeek performed very well in the SQL section, providing clear explanations and suggestions for SQL queries. It only made two small mistakes and managed to fix itself quickly after my prompts. However, its file upload limitations could cause inconvenience for users. ... Now let\u2019s switch gears to Exploratory Data Analysis.",
+            "url": "https://towardsdatascience.com/deepseek-v3-a-new-contender-in-ai-powered-data-science-eec8992e46f5/",
+            "title": "DeepSeek V3: A New Contender in AI-Powered Data Science | Towards ..."
+        },
+        {
+            "content": "Now we know exactly how DeepSeek was designed to work, and we may even have a clue toward its highly publicized scandal with OpenAI. Sean Michael Kerner is an IT consultant, technology enthusiast and tinkerer. He has pulled Token Ring, configured NetWare and been known to compile his own Linux kernel. He consults with industry and media organizations on technology issues.",
+            "url": "https://www.techtarget.com/whatis/feature/DeepSeek-explained-Everything-you-need-to-know",
+            "title": "DeepSeek explained: Everything you need to know"
+        },
+        {
+            "content": "OpenAI has helped push the generative AI industry forward with its GPT family of models, as well as its o1 class of reasoning models. While the two companies are both developing generative AI LLMs, they have different approaches. DeepSeek uses a different approach to train its R1 models than what is used by OpenAI.",
+            "url": "https://www.techtarget.com/whatis/feature/DeepSeek-explained-Everything-you-need-to-know",
+            "title": "DeepSeek explained: Everything you need to know"
+        }
+    ],
+    "iterations": 3,
+    "section_info": {
+        "section_title": "Applications",
+        "description": "Outline practical applications of deepseek in industries like technology, science, and data analysis.",
+        "time": "15-25 sec"
+    }
+}

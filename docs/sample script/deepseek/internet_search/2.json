@@ -1,0 +1,46 @@
+{
+    "topic": "deepseek",
+    "questions": [
+        "deepseek main attributes accuracy real-time analysis applications different fields",
+        "\"DeepSeek key features accuracy real-time analysis applications various fields\"",
+        "deepseek core characteristics accuracy real-time analytics diverse field applications"
+    ],
+    "internet_search": [
+        {
+            "content": "This is a nice trick: it helps you measure e.g. MMLU and MMBench accuracy in the pretraining checkpoints to see if the capabilities are improving over time, which gives you more resolution to whether the model is getting better at X but worse at Y31. This is not terribly necessary in a model with one objective, but in a multimodal model it becomes more important. The benchmarks are pretty strong here, which should by now be a pretty typical story for a DeepSeek model \u2013 at the frontier of open source, just shy of the closed models.",
+            "url": "https://planetbanatt.net/articles/deepseek.html",
+            "title": "Deepseek"
+        },
+        {
+            "content": "In this vein, DeepSeek-AI's body of work stands out as extremely interesting. At the time of writing, it's eight papers long, and roughly covers their company's journey from roughly Llama 2 performance to roughly Llama 3 performance.",
+            "url": "https://planetbanatt.net/articles/deepseek.html",
+            "title": "Deepseek"
+        },
+        {
+            "content": "Explore how DeepSeek-V3 redefines AI with groundbreaking architecture, efficient training, and impactful real-world applications in coding, education, and multilingual systems.",
+            "url": "https://adasci.org/deepseek-v3-explained-optimizing-efficiency-and-scale/",
+            "title": "DeepSeek-V3 Explained: Optimizing Efficiency and Scale"
+        },
+        {
+            "content": "DeepSeek-V3 marks a transformative advancement in the domain of large language models (LLMs), setting a new benchmark for open-source AI. As a Mixture-of-Experts (MoE) model with 671 billion parameters\u201437 billion of which are activated per token.",
+            "url": "https://adasci.org/deepseek-v3-explained-optimizing-efficiency-and-scale/",
+            "title": "DeepSeek-V3 Explained: Optimizing Efficiency and Scale"
+        },
+        {
+            "content": "In this vein, DeepSeek-AI's body of work stands out as extremely interesting. At the time of writing, it's eight papers long, and roughly covers their company's journey from roughly Llama 2 performance to roughly Llama 3 performance.",
+            "url": "https://planetbanatt.net/articles/deepseek.html",
+            "title": "Deepseek"
+        },
+        {
+            "content": "I think everybody with serious interest in large language models should read these papers, specifically. DeepSeek has some interesting ideas about architecture, but that's not why I think they're a worthwhile read; it's more that the papers all come from the same place, and build upon each other as they go.",
+            "url": "https://planetbanatt.net/articles/deepseek.html",
+            "title": "Deepseek"
+        }
+    ],
+    "iterations": 2,
+    "section_info": {
+        "section_title": "Key Features",
+        "description": "Highlight the main attributes of deepseek, such as its accuracy, real-time analysis, and wide application in different fields.",
+        "time": "5-15 sec"
+    }
+}

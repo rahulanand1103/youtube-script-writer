@@ -1,0 +1,23 @@
+{
+    "page_title": "deepseek",
+    "sections": [
+        {
+            "section_title": "Introduction to DeepSeek",
+            "description": "Introduce DeepSeek as a cutting-edge AI model, highlighting its release date, main features, and its competitive edge over other models.",
+            "time": "0-5 sec",
+            "pointers": "- Mention the release date of DeepSeek, January 2025, and its foundation on DeepSeek-V3.\n- Highlight its advanced reasoning tasks and competition with OpenAI's o1 model.\n- Note the model's 671 billion parameters and its cost efficiency."
+        },
+        {
+            "section_title": "Key Features of DeepSeek",
+            "description": "Highlight the unique features of DeepSeek, focusing on its architecture, training efficiency, and real-world applications.",
+            "time": "5-15 sec",
+            "pointers": "- Discuss the Mixture-of-Experts (MoE) model with 671 billion parameters.\n- Explain the significance of its FP8 mixed precision training and HPC co-design.\n- Mention its strong performance benchmarks and evolution from Llama 2 to Llama 3 performance."
+        },
+        {
+            "section_title": "Applications of DeepSeek",
+            "description": "Outline the practical applications of DeepSeek, emphasizing its impact on technology, science, and data analysis.",
+            "time": "15-25 sec",
+            "pointers": "- Highlight DeepSeek's role in coding, education, and multilingual systems.\n- Discuss its ethical AI practices and commitment to responsible technology use.\n- Mention its performance in SQL queries and data analysis tasks, comparing it to other AI models."
+        }
+    ]
+}
