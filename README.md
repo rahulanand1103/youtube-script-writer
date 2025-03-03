@@ -65,7 +65,7 @@ https://github.com/user-attachments/assets/53ab03ca-0d0d-4c83-9303-f2a74f13c85b
 
 
 ## 🏗️ Architecture
-
+![Image](https://github.com/user-attachments/assets/f3f60ea2-536d-48b1-bea6-18b769997896)
 YouTube Script Writer follows a structured approach to script generation:
 
 
