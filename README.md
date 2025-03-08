@@ -1,5 +1,6 @@
 # 🎥 YouTube Script Writer
 
+<a href="https://www.producthunt.com/posts/youtube-script-writer?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-youtube&#0045;script&#0045;writer" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=939465&theme=neutral&t=1741456962432" alt="youtube&#0032;script&#0032;writer - AI&#0045;powered&#0032;scripts&#0044;&#0032;tailored&#0032;for&#0032;your&#0032;YouTube&#0032;videos | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 YouTube Script Writer is an open-source AI-agent that streamlines script generation for YouTube videos. By inputting a **<span style="color:#FF5733;">video title</span>**, **<span style="color:#33C3FF;">language</span>**, and **<span style="color:#28A745;">tone</span>** (e.g., *"Incorporate Humor," "Present Only Facts," "Emotional," "Inspirational"*), content creators can quickly generate tailored scripts.  
 
